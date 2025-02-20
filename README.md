@@ -13,3 +13,5 @@ reward for staying alive to maximise the placement.
 
 Those are all just ideas without any real research behind them yet. Research will happen as i go along but because I 
 don't wanna write a paper it will stay with me.
+
+This code can be used as specified in the license, which is the MIT license.
